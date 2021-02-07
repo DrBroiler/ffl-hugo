@@ -6,15 +6,11 @@ baseURL = "https://freifunk-leipzig.de"
 theme = "hugo-html5up-alpha"
 disqusShortname = ""
 
-
-
-
-
 [menu]
   [[menu.map]]
     identifier = "Meshviewer"
     name = "Meshviewer"
-    url = "/maps"
+    url = "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/"
     weight = 10
 
   [[menu.firmware]]
