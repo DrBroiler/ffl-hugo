@@ -1,0 +1,19 @@
+button_news:
+  enable: true
+  title: "News"
+  link: "/news"
+
+button_map:
+  enable: true
+  title: "Karte"
+  link: "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/#!/de/map"
+
+button_firmware:
+  enable: true
+  title: "Firmware"
+  link: "/"
+
+button_calendar:
+  enable: true
+  title: "Kalender"
+  link: "/"
