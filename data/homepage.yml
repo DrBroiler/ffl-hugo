@@ -2,7 +2,7 @@
 banner:
   enable: true
   title: "Freifunk Leipzig"
-  content: "" # Change this if you want something other then the site description
+  content: "Mehr als nur freies WLAN" # Change this if you want something other then the site description
   buttons:
     - title: "Mach mit"
       link: "#"

@@ -1,0 +1,15 @@
+<script type="text/javascript">
+        $(document).ready(function() {
+          if(window.location.hash) {
+            $("iframe").attr("src",
+              "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/" + window.location.hash);
+          }
+        });
+        </script>
+        
+        <iframe src="http://karte.leipzig.freifunk.net:8018/meshviewer2/build/"
+          width="100%" style="display:block; height: calc(100vh - 3.25em);width: 100%;">
+        </iframe>
+    </div>
+    </body>
+</html>
