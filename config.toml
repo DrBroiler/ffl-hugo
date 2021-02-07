@@ -16,11 +16,23 @@ disqusShortname = ""
   [[menu.firmware]]
     identifier = "Firmware"
     name = "Gluon"
-    url = "/firmware"
+    url = "https://images.freifunk-leipzig.de/"
     weight = 10
+  
+  [[menu.kontakt]]
+    identifier = "Impressum"
+    name = "Impressum"
+    url = "https://freifunk.net/impressum/"
+    weight = 10
+  
+  [[menu.kontakt]]
+    identifier = "Datenschutz"
+    name = "Datenschutz"
+    url = "https://freifunk.net/datenschutz/"
+    weight = 20
 
-[communtiy]
-  url_map_meshviewer = "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/#!/de/map"
+#[communtiy]
+#  url_map_meshviewer = "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/#!/de/map"
 
 
 [params]
@@ -35,14 +47,14 @@ disqusShortname = ""
 [[params.share]]
 title = "facebook"
 icon = "fa-facebook-f" # fontawesome icons https://fontawesome.com/icons?d=gallery&s=brands
-link = "https://www.facebook.com/"
+link = "https://de-de.facebook.com/FreifunkLeipzig"
 
 [[params.share]]
 title = "twitter"
 icon = "fa-twitter"
-link = "https://twitter.com/"
+link = "https://twitter.com/freifunk_l?lang=de"
 
 [[params.share]]
-title = "linkedin"
-icon = "fa-linkedin"
-link = "https://www.linkedin.com"
+title = "github"
+icon = "fa-github"
+link = "https://github.com/freifunk-leipzig"

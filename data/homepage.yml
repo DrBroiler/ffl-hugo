@@ -20,34 +20,20 @@ features:
   enable: true
   rows:
     - items:
-      - title: "Magna etiam"
+      - title: "öffentlich und nicht kommerziell"
         icon: "fa-bolt"
         accent: "accent2" #accent values are 1-8
-        content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
-      - title: "Ipsum dolor"
+        content: "Die Idee von Freifunk ist es, mittels handelsüblicher WLAN-Accesspoints ein unabhängiges, stadtübergreifendes Netzwerk aufzubauen. Idealerweise können alle Knoten im Netzwerk miteinander kommunizieren, auch wenn diese über keine direkte Internetverbindung verfügen."
+      - title: "gemeinschaftlich betrieben"
         icon: "fa-chart-area"
         accent: "accent3" #accent values are 1-8
-        content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
+        content: "Jeder mit einem WLAN-fähigen Gerät kann am Netzwerk teilnehmen, und es sogar selbst unterstützen. Mit einem eigenen Accesspoint kannst du das Netz erweitern und stabilisieren, sowie einen Internet-Hotspot für alle bereitstellen."
     - items:
-        - title: "Sed feugiat"
+        - title: "anonym zugänglich und trotzdem rechtssicher"
           icon: "fa-cloud"
           accent: "accent4" #accent values are 1-8
-          content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
-        - title: "Enim phasellus"
+          content: "Freifunk ist ein offenes Netz, ohne Passwörter oder verpflichtende Registrierungsformulare. Du musst trotzdem keine Angst vor der Störerhaftung haben: Um jeglichen rechtlichen Problemen aus dem Weg zu gehen, wird der Internetverkehr von uns über ein VPN abgewickelt."
+        - title: "dezentral organisiert"
           icon: "fa-lock"
           accent: "accent5" #accent values are 1-8
-          content: "Integer volutpat ante et accumsan commophasellus sed aliquam feugiat lorem aliquet ut enim rutrum phasellus iaculis accumsan dolore magna aliquam veroeros."
-
-### Blog ###
-blog:
-  enable: true
-  # Leave header text blank to remove entire <section>
-  header: "Recent Posts"
-  buttonText: "Read More"
-  postCount: 2
-
-### Call to Action ###
-cta:
-  enable: true
-  header: "Sign up for beta access"
-  content: "Blandit varius ut praesent nascetur eu penatibus nisi risus faucibus nunc."
+          content: "In Gebieten mit geringer Freifunk-Abdeckung nutzen wir einen Teil deiner Internetverbindung, um sicheren Zugang zum Freifunk-Netz bereitzustellen. Mit zunehmendem Ausbau des Netzes wird sich dein Freifunk-Zugangspunkt zu benachbarten Knoten verbinden. Verbindungen werden dann zunehmend über das Mesh-Netz geleitet."
