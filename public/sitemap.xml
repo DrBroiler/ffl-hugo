@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/text/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/lists/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/table/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/buttons/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/form/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/image/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/page-bundle-example/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/tags/tag1/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/tags/tag2/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/tags/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/post2/</loc>
+    <lastmod>2019-04-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/post4/</loc>
+    <lastmod>2019-04-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/post3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/contact/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/generic/</loc>
+    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/post/</loc>
+    <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/elements/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/blog/post1/</loc>
+  </url>
+  
+</urlset>
