@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {{- partial "head.html" . -}}
+    </head>
+    <body class="is-preload">
+        <div id="page-wrapper">
+            {{- partial "header.html" . -}}
+            <script type="text/javascript">
+              $(document).ready(function() {
+                if(window.location.hash) {
+                  $("iframe").attr("src",
+                    "https://images.freifunk-leipzig.de/" + window.location.hash);
+                }
+              });
+          </script>
+              
+          <iframe src="https://images.freifunk-leipzig.de/"
+                width="100%" style="display:block; height: calc(100vh - 3.25em);width: 100%;">
+          </iframe>
+        </div>
+        {{- partial "scripts.html" . -}}
+    </body>
+</html>

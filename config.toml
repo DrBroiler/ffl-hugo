@@ -10,13 +10,13 @@ disqusShortname = ""
   [[menu.map]]
     identifier = "Meshviewer"
     name = "Meshviewer"
-    url = "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/"
+    url = "map"
     weight = 10
 
   [[menu.firmware]]
     identifier = "Firmware"
     name = "Gluon"
-    url = "https://images.freifunk-leipzig.de/"
+    url = "gluon/"
     weight = 10
   
   [[menu.kontakt]]
@@ -33,7 +33,6 @@ disqusShortname = ""
 
 #[communtiy]
 #  url_map_meshviewer = "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/#!/de/map"
-
 
 [params]
   description = "Another fine responsive site template freebie by HTML5 UP."

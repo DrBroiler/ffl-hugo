@@ -8,7 +8,7 @@ banner:
       link: "#"
       class: "primary"
     - title: "Chatte mit der Community"
-      link: "#"
+      link: "https://matrix.to/#/#freifunk:chat.dezentrale.space"
 
 ### Highlight ###
 highlight:

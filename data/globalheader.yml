@@ -6,4 +6,4 @@ button_news:
 button_calendar:
   enable: true
   title: "Kalender"
-  link: "/"
+  link: "https://next.dezentrale.cloud/nextcloud/apps/calendar/p/fMxrf4srxN65TpcW/dayGridMonth/now"
