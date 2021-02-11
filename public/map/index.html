@@ -4,7 +4,7 @@
 
 
 
-<title>Primis eget imperdiet lorem | Freifunk-Leipzig</title>
+<title> | Freifunk-Leipzig</title>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 <link rel="stylesheet" href="/style.css" /></head>
@@ -36,46 +36,19 @@
             </li>
         </ul>
     </nav>
-</header><section id="main" class="container ">
-  <header>
-    <h2>Primis eget imperdiet lorem</h2>
-    
-  </header>
-  <div class="box">
-    
-    <span class="image featured"><img src="/images/pic03.jpg" alt="" /></span>
-    
-    <p>Example of post with missing date property.</p>
-
-    
-
-
-  </div>
-  
-
-            </section>
-<footer id="footer">
-    <ul class="icons">
-        
-            <li><a href="https://de-de.facebook.com/FreifunkLeipzig" class="icon brands fa-facebook-f"><span class="label">facebook</span></a></li>
-        
-            <li><a href="https://twitter.com/freifunk_l?lang=de" class="icon brands fa-twitter"><span class="label">twitter</span></a></li>
-        
-            <li><a href="https://github.com/freifunk-leipzig" class="icon brands fa-github"><span class="label">github</span></a></li>
-        
-    </ul>
-    <ul class="copyright">
-        
-        <li>© Untitled. All rights reserved.</li>
-        
-        
-        <li>Design: <a href="http://html5up.net/">HTML5 UP</a></li>
-        
-        
-        <li>Hugo Port: <a href="https://nelsonroberto.com/">Nelson/Roberto</a></li>
-        
-    </ul>
-</footer></div>
+</header><script type="text/javascript">
+              $(document).ready(function() {
+                if(window.location.hash) {
+                  $("iframe").attr("src",
+                    "http://karte.leipzig.freifunk.net:8018/meshviewer2/build/" + window.location.hash);
+                }
+              });
+          </script>
+              
+          <iframe src="http://karte.leipzig.freifunk.net:8018/meshviewer2/build/"
+                width="100%" style="display:block; height: calc(100vh - 3.25em);width: 100%;">
+          </iframe>
+        </div>
 <script src="https://freifunk-leipzig.de/js/jquery.min.js"></script>
 <script src="https://freifunk-leipzig.de/js/jquery.dropotron.min.js"></script>
 <script src="https://freifunk-leipzig.de/js/jquery.scrollex.min.js"></script>

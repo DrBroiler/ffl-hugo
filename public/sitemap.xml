@@ -72,18 +72,20 @@
   </url>
   
   <url>
-    <loc>https://freifunk-leipzig.de/contact/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://freifunk-leipzig.de/generic/</loc>
-    <lastmod>2019-02-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://freifunk-leipzig.de/blog/post/</loc>
     <lastmod>2012-02-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/calendar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/gluon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://freifunk-leipzig.de/map/</loc>
   </url>
   
   <url>
