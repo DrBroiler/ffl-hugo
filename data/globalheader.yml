@@ -1,3 +1,8 @@
+button_home:
+  enable: true
+  title: "Home"
+  link: "#"
+
 button_news:
   enable: true
   title: "Blog"

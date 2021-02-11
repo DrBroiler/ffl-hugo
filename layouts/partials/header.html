@@ -3,6 +3,10 @@
     <h1>{{ with .Site.Data.globalheader.title }}{{ . | markdownify }}{{else}}{{ .Site.Title }}{{end}}</h1>
     <nav id="nav">
         <ul>
+            {{ $button_home := .Site.Data.globalheader.button_home }}
+            {{ if $button_home.enable }}
+            <li><a href="{{ $button_home.link }}" >{{ $button_home.title }}</a></li>
+            {{ end }}
             {{ $button_news := .Site.Data.globalheader.button_news }}
             {{ if $button_news.enable }}
             <li><a href="{{ $button_news.link }}" >{{ $button_news.title }}</a></li>
