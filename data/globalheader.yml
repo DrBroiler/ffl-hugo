@@ -1,7 +1,7 @@
 button_home:
   enable: true
   title: "Home"
-  link: "#"
+  link: "/"
 
 button_news:
   enable: true
