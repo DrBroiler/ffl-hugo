@@ -1,7 +1,7 @@
 button_news:
   enable: true
   title: "Blog"
-  link: "/blog"
+  link: "/blog/"
 
 button_calendar:
   enable: true
